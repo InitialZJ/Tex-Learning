@@ -1,0 +1,19 @@
+# Fdb version 3
+["xdvipdfmx"] 1610273271 "document.xdv" "document.pdf" "document" 1610273294
+  "document.xdv" 1610273271 492 90e7833c276314bbe3bc136e74341e12 "xelatex"
+  (generated)
+  "document.pdf"
+["xelatex"] 1610273270 "document.tex" "document.xdv" "document" 1610273294
+  "d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls" 1610181183 20023 e427dd9e17e239bf926ef3aab67fe35e ""
+  "d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo" 1610181183 8446 9874cccac5fee462272c582807dbbf56 ""
+  "d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd" 1610181183 2431 b6cead9f069ed55f4fba0c637aa047b6 ""
+  "d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def" 1610181170 24122 2811f916663c7ee4dc89a3107086b073 ""
+  "d:/Program Files/texlive/2020/texmf-dist/web2c/texmf.cnf" 1610181158 39451 60d7debd9ef8ece44cbe965493576c2d ""
+  "d:/Program Files/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt" 1610183006 4769721 3ecf34eb135bf90aa06726b3f05f4eef ""
+  "d:/Program Files/texlive/2020/texmf.cnf" 1610182591 673 4ae7b2f49cee444c5343a45b5d0f169c ""
+  "document.aux" 1610273271 8 a94a2480d3289e625eea47cd1b285758 "xelatex"
+  "document.tex" 1610273264 71 743415617517f746e38677748568c6fe ""
+  (generated)
+  "document.xdv"
+  "document.aux"
+  "document.log"

@@ -1,0 +1,53 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Our Approach}{4}{subsection.1.3}%
+\contentsline {section}{\numberline {2}General Assumptions and Model Overview}{4}{section.2}%
+\contentsline {section}{\numberline {3}Model Preparation}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Notations}{6}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The Data}{6}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Data Collection}{6}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Data Cleaning}{7}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Geographic Coordinate System}{7}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Model I: Seawater Temperature Prediction Model}{7}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Description of Temperature Field}{7}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Autoregressive Prediction Model}{7}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Results}{8}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Parameter Estimation}{8}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Calaculation Results}{8}{subsubsection.4.3.2}%
+\contentsline {section}{\numberline {5}Model II: Fish Migration Prediction Model}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Kinematics of Migration}{8}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Kinetics of Migration}{9}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Results}{9}{subsection.5.3}%
+\contentsline {subsubsection}{\numberline {5.3.1}Estimation of $\nabla u$}{9}{subsubsection.5.3.1}%
+\contentsline {subsubsection}{\numberline {5.3.2}Estimation of $f(\nabla u, v)$}{9}{subsubsection.5.3.2}%
+\contentsline {subsubsection}{\numberline {5.3.3}Migration Simulation Algorithm}{9}{subsubsection.5.3.3}%
+\contentsline {subsubsection}{\numberline {5.3.4}Calaculation Results}{9}{subsubsection.5.3.4}%
+\contentsline {section}{\numberline {6}Model III: Fishing Company Earnings Evaluation Model}{10}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Fishing Company Operating Model}{10}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Assessment of Fishing Costs}{10}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Assessment of Fishing Income}{11}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Assessment of Fishing Profit}{11}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Results}{11}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Parameter Estimation}{11}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Migration Simulation Algorithm}{11}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Calaculation Results}{11}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Discussion}{12}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}The Management Strategies without Consider of Territorial Sea}{12}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}The Management Strategies with Consider of Territorial Sea}{12}{subsubsection.6.3.2}%
+\contentsline {section}{\numberline {7}Test the Model}{12}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Sensitivity Analysis}{12}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Robustness Analysis}{12}{subsection.7.2}%
+\contentsline {section}{\numberline {8}Conclusion}{13}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Summary of Results}{13}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}Result of Problem 1}{13}{subsubsection.8.1.1}%
+\contentsline {subsubsection}{\numberline {8.1.2}Result of Problem 2}{13}{subsubsection.8.1.2}%
+\contentsline {subsubsection}{\numberline {8.1.3}Result of Problem 3}{13}{subsubsection.8.1.3}%
+\contentsline {subsubsection}{\numberline {8.1.4}Result of Problem 4}{13}{subsubsection.8.1.4}%
+\contentsline {subsection}{\numberline {8.2}Strength}{14}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Possible Improvements}{14}{subsection.8.3}%
+\contentsline {section}{References}{14}{subsection.8.3}%
+\contentsline {section}{Appendices}{15}{section*.5}%
+\contentsline {section}{Appendix \numberline {A}First appendix}{15}{appendix.a.A}%
+\contentsline {section}{Appendix \numberline {B}Second appendix}{15}{appendix.a.B}%
+\contentsfinish 

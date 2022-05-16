@@ -1,0 +1,223 @@
+PWD D:/Code/TeXworks/Έ‘Ά―Με
+INPUT d:/Program Files/texlive/2020/texmf.cnf
+INPUT d:/Program Files/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT d:/Program Files/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT document.tex
+OUTPUT document.log
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctexspa.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctexspa.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr7.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+INPUT c:/Windows/Fonts/msyh.ttc
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+INPUT d:/Program Files/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.enc
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.enc
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.chr
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.chr
+INPUT document.aux
+INPUT document.aux
+OUTPUT document.aux
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/fd/c19rm.fd
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/ctex/fd/c19rm.fd
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong74.tfm
+OUTPUT document.pdf
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1974.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong34.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1934.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong19.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1919.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong76.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1976.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong14.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1914.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong20.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1920.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong75.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1975.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong02.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1902.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong83.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1983.cmap
+INPUT figures/11-21-1.jpg
+INPUT ./figures/11-21-1.jpg
+INPUT ./figures/11-21-1.jpg
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong57.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1957.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong77.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1977.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong43.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1943.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong46.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1946.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong29.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1929.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong42.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1942.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong24.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1924.cmap
+INPUT figures/11-22-1.jpg
+INPUT ./figures/11-22-1.jpg
+INPUT ./figures/11-22-1.jpg
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong30.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1930.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong15.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1915.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong12.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1912.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong16.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1916.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong36.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1936.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong17.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1917.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong35.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1935.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong06.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1906.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong38.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1938.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong18.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1918.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong11.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1911.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong28.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1928.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong03.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1903.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong09.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1909.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong23.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1923.cmap
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/tfm/zhmetrics/gbksong/gbksong44.tfm
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/xcjk2uni/cmap/c1944.cmap
+INPUT document.aux
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT c:/Windows/Fonts/simsun.ttc
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT d:/Program Files/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb

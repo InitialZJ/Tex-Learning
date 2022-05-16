@@ -1,0 +1,52 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Problem Background}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Restatement of the Problem}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Our Approach}{section.1}% 4
+\BOOKMARK [1][-]{section.2}{General Assumptions and Model Overview}{}% 5
+\BOOKMARK [1][-]{section.3}{Model Preparation}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{Notations}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{The Data}{section.3}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Data Collection}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Data Cleaning}{subsection.3.2}% 10
+\BOOKMARK [2][-]{subsection.3.3}{Geographic Coordinate System}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Model I: Seawater Temperature Prediction Model}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Description of Temperature Field}{section.4}% 13
+\BOOKMARK [2][-]{subsection.4.2}{Autoregressive Prediction Model}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.3}{Results}{section.4}% 15
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Parameter Estimation}{subsection.4.3}% 16
+\BOOKMARK [3][-]{subsubsection.4.3.2}{Calaculation Results}{subsection.4.3}% 17
+\BOOKMARK [1][-]{section.5}{Model II: Fish Migration Prediction Model}{}% 18
+\BOOKMARK [2][-]{subsection.5.1}{Kinematics of Migration}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.2}{Kinetics of Migration}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.3}{Results}{section.5}% 21
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Estimation of u}{subsection.5.3}% 22
+\BOOKMARK [3][-]{subsubsection.5.3.2}{Estimation of f\(u, v\)}{subsection.5.3}% 23
+\BOOKMARK [3][-]{subsubsection.5.3.3}{Migration Simulation Algorithm}{subsection.5.3}% 24
+\BOOKMARK [3][-]{subsubsection.5.3.4}{Calaculation Results}{subsection.5.3}% 25
+\BOOKMARK [1][-]{section.6}{Model III: Fishing Company Earnings Evaluation Model}{}% 26
+\BOOKMARK [2][-]{subsection.6.1}{Fishing Company Operating Model}{section.6}% 27
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Assessment of Fishing Costs}{subsection.6.1}% 28
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Assessment of Fishing Income}{subsection.6.1}% 29
+\BOOKMARK [3][-]{subsubsection.6.1.3}{Assessment of Fishing Profit}{subsection.6.1}% 30
+\BOOKMARK [2][-]{subsection.6.2}{Results}{section.6}% 31
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Parameter Estimation}{subsection.6.2}% 32
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Migration Simulation Algorithm}{subsection.6.2}% 33
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Calaculation Results}{subsection.6.2}% 34
+\BOOKMARK [2][-]{subsection.6.3}{Discussion}{section.6}% 35
+\BOOKMARK [3][-]{subsubsection.6.3.1}{The Management Strategies without Consider of Territorial Sea}{subsection.6.3}% 36
+\BOOKMARK [3][-]{subsubsection.6.3.2}{The Management Strategies with Consider of Territorial Sea}{subsection.6.3}% 37
+\BOOKMARK [1][-]{section.7}{Test the Model}{}% 38
+\BOOKMARK [2][-]{subsection.7.1}{Sensitivity Analysis}{section.7}% 39
+\BOOKMARK [2][-]{subsection.7.2}{Robustness Analysis}{section.7}% 40
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 41
+\BOOKMARK [2][-]{subsection.8.1}{Summary of Results}{section.8}% 42
+\BOOKMARK [3][-]{subsubsection.8.1.1}{Result of Problem 1}{subsection.8.1}% 43
+\BOOKMARK [3][-]{subsubsection.8.1.2}{Result of Problem 2}{subsection.8.1}% 44
+\BOOKMARK [3][-]{subsubsection.8.1.3}{Result of Problem 3}{subsection.8.1}% 45
+\BOOKMARK [3][-]{subsubsection.8.1.4}{Result of Problem 4}{subsection.8.1}% 46
+\BOOKMARK [2][-]{subsection.8.2}{Strength}{section.8}% 47
+\BOOKMARK [2][-]{subsection.8.3}{Possible Improvements}{section.8}% 48
+\BOOKMARK [1][-]{subsection.8.3}{References}{}% 49
+\BOOKMARK [1][-]{section*.5}{Appendices}{}% 50
+\BOOKMARK [1][-]{appendix.a.A}{Appendix First appendix}{}% 51
+\BOOKMARK [1][-]{appendix.a.B}{Appendix Second appendix}{}% 52

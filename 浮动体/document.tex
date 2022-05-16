@@ -1,0 +1,53 @@
+\documentclass{article}
+
+\usepackage{ctex}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+
+
+\begin{document}
+%	内容...
+	\LaTeX{}中的插图如图\ref{a}：
+	
+	\begin{figure}[htbp]
+		\centering
+%		内容...
+		\includegraphics[scale=0.2]{11-21-1}
+		\caption{\TeX 示例}
+		\label{a}
+	\end{figure}
+
+	另一张图如图\ref{b}：
+	
+	\begin{figure}[htbp]
+		\centering
+		%		内容...
+		\includegraphics[scale=0.1]{11-22-1}
+		\caption{\TeX 示例}
+		\label{b}
+	\end{figure}
+	
+	\LaTeX{}中的表格\ref{c}：
+	\begin{table}[h]
+		\centering
+%		内容...
+		\begin{tabular}{|l|c|c|c|r|}
+%			内容...
+			\hline
+			姓名 & 语文 & 数学 & 外语 & 备注\\
+			\hline
+			张三 & 97 & 100 & 90 & 优秀\\
+			\hline
+			李四 & 75 & 64 & 52 & 补考另行通知\\
+			\hline
+			王二 & 80 & 82 & 78 & \\
+			\hline
+			
+		\end{tabular}
+		\caption{考试成绩单}
+		\label{c}
+		
+	\end{table}
+	
+	
+\end{document}

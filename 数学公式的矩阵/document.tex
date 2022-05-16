@@ -1,0 +1,87 @@
+\documentclass{article}
+
+\usepackage{ctex}
+\usepackage{amsmath}
+
+\begin{document}
+%	矩阵环境，用&分割列，用\\分割行
+	\[
+	\begin{matrix}
+		0 & 1\\
+		1 & 0		
+	\end{matrix} \quad
+%	pmtrix环境
+	\begin{pmatrix}
+		0 & -i\\
+		i & 0
+	\end{pmatrix} \quad
+%	bmatrix环境
+	\begin{bmatrix}
+		0 & -1\\
+		1 & 0
+	\end{bmatrix} \quad
+	% Bmatrix环境
+	\begin{Bmatrix}
+		0 & -1\\
+		1 & 0
+	\end{Bmatrix} \quad
+	% vmatrix环境
+	\begin{vmatrix}
+		0 & -1\\
+		1 & 0
+	\end{vmatrix} \quad
+	% Vmatrix环境
+	\begin{Vmatrix}
+		0 & -1\\
+		1 & 0
+	\end{Vmatrix} \quad
+	\]
+	
+%	可以使用上下标
+	\[
+	A = \begin{pmatrix}
+		a_{11}^2 & a_{12}^2 & a_{13}^2\\
+		0 & a_{22} & a_{23}\\
+		0 & 0 & a_{33}
+	\end{pmatrix}
+	\]
+	
+%	常用省略号：\dots、\vdots、\ddots
+	\[
+	A = \begin{bmatrix}
+		a_{11} & \dots & a_{1n}\\
+		& \ddots & \vdots\\
+		0 & & a_{nn}
+	\end{bmatrix}_{n \times n}
+	\]
+	
+%	分块矩阵（矩阵嵌套）
+	\[
+	\begin{pmatrix}
+		\begin{matrix} 1&1\\0&1 \end{matrix}
+		& \text{\Large 0}\\
+		\text{\Large 0} & \begin{matrix}
+		1&0\\0&-1 \end{matrix}	
+	\end{pmatrix}
+	\]
+	
+%	行内小矩阵（smallmatrix）环境
+	复数 $z = (x, y)$ 也可用矩阵
+	\begin{math}
+		\left( % 需要手动加上左括号
+		\begin{smallmatrix}
+			x & -y \\ y & x
+		\end{smallmatrix}
+		\right) % 需要手动加上右括号
+	\end{math}来表示。
+
+%	array环境（类似于表格环境tabular）
+	\[
+	\begin{array}{r|r}
+		\frac{1}{2} & 0\\
+		\hline
+		0 & -\frac{a}{b}c\\
+	\end{array}
+	\]
+	
+\end{document}

@@ -1,0 +1,19 @@
+PWD D:/Code/TeXworks/ÌØÊâ×Ö·û
+INPUT d:/Program Files/texlive/2020/texmf.cnf
+INPUT d:/Program Files/texlive/2020/texmf-dist/web2c/texmf.cnf
+INPUT d:/Program Files/texlive/2020/texmf-var/web2c/xetex/xelatex.fmt
+INPUT document.tex
+OUTPUT document.log
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/article.cls
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+INPUT document.aux
+INPUT document.aux
+OUTPUT document.aux
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT d:/Program Files/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+OUTPUT document.xdv
+INPUT document.aux
